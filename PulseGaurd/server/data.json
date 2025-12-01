@@ -1,0 +1,617 @@
+{
+  "alerts": [
+    {
+      "id": "A-1044",
+      "timestamp": "2025-11-27T22:00:21.770Z",
+      "type": "gunshot",
+      "weapon": "handgun",
+      "confidence": 0.88,
+      "status": "declined",
+      "location": {
+        "lat": 25.12,
+        "lng": 55.19
+      },
+      "cameraId": "CAM-01",
+      "snapshot": null
+    },
+    {
+      "id": "A-1043",
+      "timestamp": "2025-11-27T22:00:16.166Z",
+      "type": "gunshot",
+      "weapon": "handgun",
+      "confidence": 0.88,
+      "status": "resolved",
+      "location": {
+        "lat": 25.12,
+        "lng": 55.19
+      },
+      "cameraId": "CAM-01",
+      "snapshot": null
+    },
+    {
+      "id": "A-1042",
+      "timestamp": "2025-11-27T21:23:32.160Z",
+      "type": "gunshot",
+      "weapon": "handgun",
+      "confidence": 0.88,
+      "status": "declined",
+      "location": {
+        "lat": 25.12,
+        "lng": 55.19
+      },
+      "cameraId": "CAM-01",
+      "snapshot": null
+    },
+    {
+      "id": "A-1041",
+      "timestamp": "2025-11-27T21:02:14.159Z",
+      "type": "gunshot",
+      "weapon": "handgun",
+      "confidence": 0.88,
+      "status": "resolved",
+      "location": {
+        "lat": 25.12,
+        "lng": 55.19
+      },
+      "cameraId": "CAM-01",
+      "snapshot": null
+    },
+    {
+      "id": "A-1040",
+      "timestamp": "2025-11-27T21:02:07.320Z",
+      "type": "gunshot",
+      "weapon": "handgun",
+      "confidence": 0.88,
+      "status": "declined",
+      "location": {
+        "lat": 25.12,
+        "lng": 55.19
+      },
+      "cameraId": "CAM-01",
+      "snapshot": null
+    },
+    {
+      "id": "A-1039",
+      "timestamp": "2025-11-27T20:06:40.821Z",
+      "type": "gunshot",
+      "weapon": "handgun",
+      "confidence": 0.88,
+      "status": "declined",
+      "location": {
+        "lat": 25.12,
+        "lng": 55.19
+      },
+      "cameraId": "CAM-01",
+      "snapshot": null
+    },
+    {
+      "id": "A-1038",
+      "timestamp": "2025-11-27T20:06:20.553Z",
+      "type": "gunshot",
+      "weapon": "handgun",
+      "confidence": 0.88,
+      "status": "declined",
+      "location": {
+        "lat": 25.1,
+        "lng": 55.17
+      },
+      "cameraId": "CAM-01",
+      "snapshot": null
+    },
+    {
+      "id": "A-1037",
+      "timestamp": "2025-11-27T20:02:22.665Z",
+      "type": "gunshot",
+      "weapon": "handgun",
+      "confidence": 0.88,
+      "status": "resolved",
+      "location": {
+        "lat": 25.2,
+        "lng": 55.27
+      },
+      "cameraId": "CAM-01",
+      "snapshot": null
+    },
+    {
+      "id": "A-1036",
+      "timestamp": "2025-11-27T20:02:21.889Z",
+      "type": "gunshot",
+      "weapon": "handgun",
+      "confidence": 0.88,
+      "status": "declined",
+      "location": {
+        "lat": 25.2,
+        "lng": 55.27
+      },
+      "cameraId": "CAM-01",
+      "snapshot": null
+    },
+    {
+      "id": "A-1035",
+      "timestamp": "2025-11-27T20:02:21.097Z",
+      "type": "gunshot",
+      "weapon": "handgun",
+      "confidence": 0.88,
+      "status": "declined",
+      "location": {
+        "lat": 25.2,
+        "lng": 55.27
+      },
+      "cameraId": "CAM-01",
+      "snapshot": null
+    },
+    {
+      "id": "A-1034",
+      "timestamp": "2025-11-27T20:02:19.952Z",
+      "type": "gunshot",
+      "weapon": "handgun",
+      "confidence": 0.88,
+      "status": "declined",
+      "location": {
+        "lat": 25.2,
+        "lng": 55.27
+      },
+      "cameraId": "CAM-01",
+      "snapshot": null
+    },
+    {
+      "id": "A-1033",
+      "timestamp": "2025-11-27T20:02:19.106Z",
+      "type": "gunshot",
+      "weapon": "handgun",
+      "confidence": 0.88,
+      "status": "declined",
+      "location": {
+        "lat": 25.2,
+        "lng": 55.27
+      },
+      "cameraId": "CAM-01",
+      "snapshot": null
+    },
+    {
+      "id": "A-1032",
+      "timestamp": "2025-11-27T20:02:17.033Z",
+      "type": "gunshot",
+      "weapon": "handgun",
+      "confidence": 0.88,
+      "status": "declined",
+      "location": {
+        "lat": 25.2,
+        "lng": 55.27
+      },
+      "cameraId": "CAM-01",
+      "snapshot": null
+    },
+    {
+      "id": "A-1031",
+      "timestamp": "2025-11-27T14:48:36.855Z",
+      "type": "gunshot",
+      "weapon": "gun",
+      "confidence": 0.9153948426246643,
+      "status": "resolved",
+      "cameraId": "CAM-01",
+      "location": {
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "snapshot": "http://localhost:4000/snapshots/frame_20251127T144729.780096Z.jpg"
+    },
+    {
+      "id": "A-1030",
+      "timestamp": "2025-11-27T02:45:06.719Z",
+      "type": "gunshot",
+      "weapon": "gun",
+      "confidence": 0.906317949295044,
+      "status": "declined",
+      "cameraId": "CAM-01",
+      "location": {
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "snapshot": "http://localhost:4000/snapshots/frame_20251127T024401.399305Z.jpg"
+    },
+    {
+      "id": "A-1029",
+      "timestamp": "2025-11-27T02:14:26.909Z",
+      "type": "gunshot",
+      "weapon": "gun",
+      "confidence": 0.9207195043563843,
+      "status": "declined",
+      "cameraId": "CAM-01",
+      "location": {
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "snapshot": "http://localhost:4000/snapshots/frame_20251127T021319.872680Z.jpg"
+    },
+    {
+      "id": "A-1028",
+      "timestamp": "2025-11-27T01:51:55.020Z",
+      "type": "gunshot",
+      "weapon": "unknown",
+      "confidence": 0.906930685043335,
+      "status": "declined",
+      "cameraId": "CAM-01",
+      "location": {
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "snapshot": "http://localhost:4000/snapshots/frame_20251127T015048.071982Z.jpg"
+    },
+    {
+      "id": "A-1027",
+      "timestamp": "2025-11-27T01:27:08.359Z",
+      "confidence": 0.92,
+      "weapon": "handgun",
+      "location": {
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "type": "gunshot",
+      "cameraId": "CAM-01",
+      "snapshot": "http://localhost:4000/snapshots/test.jpg",
+      "status": "declined"
+    },
+    {
+      "id": "A-1026",
+      "timestamp": "2025-11-27T01:21:12.728Z",
+      "confidence": 0.92,
+      "weapon": "handgun",
+      "location": {
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "type": "gunshot",
+      "cameraId": "CAM-01",
+      "snapshot": "http://localhost:4000/snapshots/test.jpg",
+      "status": "declined"
+    },
+    {
+      "id": "A-1025",
+      "timestamp": "2025-11-27T01:06:23.134Z",
+      "type": "gunshot",
+      "weapon": "unknown",
+      "confidence": 0.9164389967918396,
+      "status": "declined",
+      "location": {
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "cameraId": "CAM-01",
+      "snapshot": null
+    },
+    {
+      "id": "A-1024",
+      "timestamp": "2025-11-27T00:41:08.933Z",
+      "type": "gunshot",
+      "weapon": "unknown",
+      "confidence": 0,
+      "status": "resolved",
+      "location": {
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "cameraId": "CAM-01",
+      "snapshot": null
+    },
+    {
+      "id": "A-1023",
+      "timestamp": "2025-11-27T00:29:47.959Z",
+      "type": "gunshot",
+      "weapon": "handgun",
+      "confidence": 0.88,
+      "status": "declined",
+      "location": {
+        "lat": 25.2,
+        "lng": 55.27
+      },
+      "cameraId": "CAM-01",
+      "snapshot": null
+    },
+    {
+      "id": "A-1022",
+      "timestamp": "2025-11-27T00:29:47.245Z",
+      "type": "gunshot",
+      "weapon": "handgun",
+      "confidence": 0.88,
+      "status": "declined",
+      "location": {
+        "lat": 25.2,
+        "lng": 55.27
+      },
+      "cameraId": "CAM-01",
+      "snapshot": null
+    },
+    {
+      "id": "A-1021",
+      "timestamp": "2025-11-27T00:29:46.562Z",
+      "type": "gunshot",
+      "weapon": "handgun",
+      "confidence": 0.88,
+      "status": "declined",
+      "location": {
+        "lat": 25.2,
+        "lng": 55.27
+      },
+      "cameraId": "CAM-01",
+      "snapshot": null
+    },
+    {
+      "id": "A-1020",
+      "timestamp": "2025-11-27T00:29:45.862Z",
+      "type": "gunshot",
+      "weapon": "handgun",
+      "confidence": 0.88,
+      "status": "declined",
+      "location": {
+        "lat": 25.2,
+        "lng": 55.27
+      },
+      "cameraId": "CAM-01",
+      "snapshot": null
+    },
+    {
+      "id": "A-1019",
+      "timestamp": "2025-11-27T00:29:45.010Z",
+      "type": "gunshot",
+      "weapon": "handgun",
+      "confidence": 0.88,
+      "status": "declined",
+      "location": {
+        "lat": 25.2,
+        "lng": 55.27
+      },
+      "cameraId": "CAM-01",
+      "snapshot": null
+    },
+    {
+      "id": "A-1018",
+      "timestamp": "2025-11-27T00:29:39.453Z",
+      "type": "gunshot",
+      "weapon": "handgun",
+      "confidence": 0.88,
+      "status": "declined",
+      "location": {
+        "lat": 25.2,
+        "lng": 55.27
+      },
+      "cameraId": "CAM-01",
+      "snapshot": null
+    },
+    {
+      "id": "A-1017",
+      "timestamp": "2025-11-27T00:29:38.348Z",
+      "type": "gunshot",
+      "weapon": "handgun",
+      "confidence": 0.88,
+      "status": "declined",
+      "location": {
+        "lat": 25.2,
+        "lng": 55.27
+      },
+      "cameraId": "CAM-01",
+      "snapshot": null
+    },
+    {
+      "id": "A-1016",
+      "timestamp": "2025-11-27T00:29:37.705Z",
+      "type": "gunshot",
+      "weapon": "handgun",
+      "confidence": 0.88,
+      "status": "declined",
+      "location": {
+        "lat": 25.2,
+        "lng": 55.27
+      },
+      "cameraId": "CAM-01",
+      "snapshot": null
+    },
+    {
+      "id": "A-1015",
+      "timestamp": "2025-11-27T00:28:21.288Z",
+      "type": "gunshot",
+      "weapon": "handgun",
+      "confidence": 0.88,
+      "status": "declined",
+      "location": {
+        "lat": 25.2,
+        "lng": 55.27
+      },
+      "cameraId": "CAM-01",
+      "snapshot": null
+    },
+    {
+      "id": "A-1014",
+      "timestamp": "2025-11-27T00:28:20.319Z",
+      "type": "gunshot",
+      "weapon": "handgun",
+      "confidence": 0.88,
+      "status": "declined",
+      "location": {
+        "lat": 25.2,
+        "lng": 55.27
+      },
+      "cameraId": "CAM-01",
+      "snapshot": null
+    },
+    {
+      "id": "A-1013",
+      "timestamp": "2025-11-27T00:28:19.908Z",
+      "type": "gunshot",
+      "weapon": "handgun",
+      "confidence": 0.88,
+      "status": "declined",
+      "location": {
+        "lat": 25.2,
+        "lng": 55.27
+      },
+      "cameraId": "CAM-01",
+      "snapshot": null
+    },
+    {
+      "id": "A-1012",
+      "timestamp": "2025-11-27T00:28:19.490Z",
+      "type": "gunshot",
+      "weapon": "handgun",
+      "confidence": 0.88,
+      "status": "declined",
+      "location": {
+        "lat": 25.2,
+        "lng": 55.27
+      },
+      "cameraId": "CAM-01",
+      "snapshot": null
+    },
+    {
+      "id": "A-1011",
+      "timestamp": "2025-11-27T00:28:19.071Z",
+      "type": "gunshot",
+      "weapon": "handgun",
+      "confidence": 0.88,
+      "status": "declined",
+      "location": {
+        "lat": 25.2,
+        "lng": 55.27
+      },
+      "cameraId": "CAM-01",
+      "snapshot": null
+    },
+    {
+      "id": "A-1010",
+      "timestamp": "2025-11-27T00:28:18.635Z",
+      "type": "gunshot",
+      "weapon": "handgun",
+      "confidence": 0.88,
+      "status": "declined",
+      "location": {
+        "lat": 25.2,
+        "lng": 55.27
+      },
+      "cameraId": "CAM-01",
+      "snapshot": null
+    },
+    {
+      "id": "A-1009",
+      "timestamp": "2025-11-27T00:28:18.201Z",
+      "type": "gunshot",
+      "weapon": "handgun",
+      "confidence": 0.88,
+      "status": "declined",
+      "location": {
+        "lat": 25.2,
+        "lng": 55.27
+      },
+      "cameraId": "CAM-01",
+      "snapshot": null
+    },
+    {
+      "id": "A-1008",
+      "timestamp": "2025-11-27T00:28:17.782Z",
+      "type": "gunshot",
+      "weapon": "handgun",
+      "confidence": 0.88,
+      "status": "declined",
+      "location": {
+        "lat": 25.2,
+        "lng": 55.27
+      },
+      "cameraId": "CAM-01",
+      "snapshot": null
+    },
+    {
+      "id": "A-1007",
+      "timestamp": "2025-11-27T00:28:17.327Z",
+      "type": "gunshot",
+      "weapon": "handgun",
+      "confidence": 0.88,
+      "status": "declined",
+      "location": {
+        "lat": 25.2,
+        "lng": 55.27
+      },
+      "cameraId": "CAM-01",
+      "snapshot": null
+    },
+    {
+      "id": "A-1006",
+      "timestamp": "2025-11-27T00:28:16.824Z",
+      "type": "gunshot",
+      "weapon": "handgun",
+      "confidence": 0.88,
+      "status": "declined",
+      "location": {
+        "lat": 25.2,
+        "lng": 55.27
+      },
+      "cameraId": "CAM-01",
+      "snapshot": null
+    },
+    {
+      "id": "A-1005",
+      "timestamp": "2025-11-27T00:28:15.752Z",
+      "type": "gunshot",
+      "weapon": "handgun",
+      "confidence": 0.88,
+      "status": "declined",
+      "location": {
+        "lat": 25.2,
+        "lng": 55.27
+      },
+      "cameraId": "CAM-01",
+      "snapshot": null
+    },
+    {
+      "id": "A-1004",
+      "timestamp": "2025-11-27T00:27:51.440Z",
+      "type": "gunshot",
+      "weapon": "handgun",
+      "confidence": 0.88,
+      "status": "declined",
+      "location": {
+        "lat": 25.2,
+        "lng": 55.27
+      },
+      "cameraId": "CAM-01",
+      "snapshot": null
+    },
+    {
+      "id": "A-1003",
+      "timestamp": "2025-11-27T00:27:24.784Z"
+    },
+    {
+      "id": "A-1002",
+      "timestamp": "2025-11-27T00:26:57.787Z"
+    },
+    {
+      "id": "A-1001",
+      "timestamp": "2025-11-26T22:59:29.164Z",
+      "type": "gunshot",
+      "weapon": "handgun",
+      "confidence": 0.92,
+      "status": "declined",
+      "location": {
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "cameraId": "CAM-01",
+      "snapshot": null,
+      "notes": []
+    }
+  ],
+  "devices": [
+    {
+      "id": "CAM-01",
+      "type": "camera",
+      "name": "Main St PTZ 1",
+      "status": "online",
+      "lastSeen": "2025-11-27T22:14:51.635Z"
+    },
+    {
+      "id": "MIC-01",
+      "type": "microphone",
+      "name": "Corner Mic 1",
+      "status": "online",
+      "lastSeen": "2025-11-27T22:14:52.395Z"
+    }
+  ]
+}
